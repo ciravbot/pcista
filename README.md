@@ -1,5 +1,7 @@
 Dependencies:
-	<ul><li>pygame
+	<ul>
+	<li>Python 3.X
+	<li>pygame
 	<li>pillow (Python Image Library Fork)
 	</ul>
 	
