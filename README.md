@@ -9,10 +9,7 @@ Copy the 3 files scene.py, _scene.py, _scene_types.py to
 <br>
 <br>	Windows:
 <br>		%python%\Lib\site-packages
-<br>		
-<br>	Linux:
-<br>	
-<br>	Mac:
-<br>	
+<br>	Linux/Mac:
+<br>		/usr/local/lib/pythonX.X/site-packages'
 <br>	Pythonista(iOS)
 <br>		Already installed.
